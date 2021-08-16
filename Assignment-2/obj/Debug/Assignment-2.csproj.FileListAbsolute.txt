@@ -1,0 +1,11 @@
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe.config
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\bin\Debug\Assignment-2.exe
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\bin\Debug\Assignment-2.pdb
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csproj.AssemblyReference.cache
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\obj\Debug\Assignment_2.Properties.Resources.resources
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csproj.GenerateResource.cache
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.exe
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\obj\Debug\Assignment-2.pdb
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\obj\Debug\Assignment_2.log_in.resources
+C:\Users\nawrin\source\repos\Assign2\Assignment-2\Assignment-2\obj\Debug\Assignment_2.Grade.resources
