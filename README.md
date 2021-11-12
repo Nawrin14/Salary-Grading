@@ -9,7 +9,7 @@ This is a salary grading management system used to calculate an employee's salar
 3. In Grade form, the Member Name and Member ID are fetched from the previous page
 4. Number of hours can be at most 10 for each day
 
-   Table: Member Grade Calculation Schema
+  Table: Member Grade Calculation Schema
 ---------------------------------------------
      Total Time (Hours)     |     Grade
 ---------------------------------------------
